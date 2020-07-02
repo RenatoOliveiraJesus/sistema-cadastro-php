@@ -1,0 +1,23 @@
+img.logo {
+    width: 55px;
+}
+nav.navbar.navbar-light.bg-light.nav_principal{
+    background-color: #20315e !important;
+}
+.icon_user {
+    font-size: 1.9em !important;
+    color: red !important;
+}
+.caixa_login{
+    background-color: #20315e !important;
+    margin-left: 72px;
+}
+.icon_menu{
+    color:red !important;
+}
+.desc_icon{
+    color:white !important;
+    font-size: 20px;
+}
+
+

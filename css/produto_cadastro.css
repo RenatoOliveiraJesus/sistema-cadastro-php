@@ -1,0 +1,30 @@
+.fm_1{
+    background-color: #ccc;
+    border-right: groove;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+.fm_2{
+
+    background-color: #ccc;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.Botao_principal{
+    margin-left: auto;
+    margin-right: auto;
+    display: block !important;
+    margin-top: 40px;
+}
+.form_principal{
+    border-radius: 8px;
+    margin-top: 45px;
+}
+
+.alerta_mensagem {
+    margin-bottom: -35px !important;
+}
+.form-group.formulario {
+    margin-top: 20px;
+}
